@@ -1,0 +1,1 @@
+int NWAlign(string, string);
