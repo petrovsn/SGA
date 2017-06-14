@@ -1534,7 +1534,7 @@ int main( int argc, const char* argv[] )
 
 //	testGraph.print();
 
-	string example = ref3.substr(10000,1000);
+	string example = ref3.substr(10000,10000);
 
 	t1 = clock();
 	testGraph.GenHash(5,15);
